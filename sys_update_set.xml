@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-02-24 21:30:23">
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<base_update_set display_value="Default">322834b97db1311076daf29f52070d4e</base_update_set>
+<completed_by display_value=""/>
+<completed_on>2023-10-10 22:41:11</completed_on>
+<description>Automatically created by the system</description>
+<install_date/>
+<installed_from/>
+<is_default>true</is_default>
+<merged_to display_value=""/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_sys_id display_value=""/>
+<state>in progress</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2023-10-10 22:41:11</sys_created_on>
+<sys_id>322834b97db1311076daf29f52070d4e</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-02-24 21:29:58</sys_updated_on>
+</sys_update_set>
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="Pipeline">e78853e9c3222010b83971e54440dd26</application>
+<base_update_set display_value=""/>
+<completed_by display_value=""/>
+<completed_on>2023-11-20 04:00:02</completed_on>
+<description>Automatically created by the system</description>
+<install_date/>
+<installed_from/>
+<is_default>true</is_default>
+<merged_to display_value=""/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_sys_id display_value=""/>
+<state>in progress</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2023-11-20 04:00:02</sys_created_on>
+<sys_id>e7b0cc7697ea31101e543686f053af05</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2023-11-20 04:00:02</sys_updated_on>
+</sys_update_set>
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<base_update_set display_value="Default">322834b97db1311076daf29f52070d4e</base_update_set>
+<completed_by display_value=""/>
+<completed_on>2024-02-24 21:27:19</completed_on>
+<description>
+First default set backup</description>
+<install_date/>
+<installed_from/>
+<is_default>false</is_default>
+<merged_to display_value=""/>
+<name>New Update Set 2-24-24</name>
+<origin_sys_id/>
+<parent display_value="Default">322834b97db1311076daf29f52070d4e</parent>
+<release_date>2024-02-24 21:29:44</release_date>
+<remote_sys_id display_value=""/>
+<state>in progress</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-02-24 21:29:58</sys_created_on>
+<sys_id>b81906f597a882101e543686f053aff0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-02-24 21:29:58</sys_updated_on>
+</sys_update_set>
+</unload>
